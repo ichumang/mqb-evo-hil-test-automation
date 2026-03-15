@@ -1,0 +1,9 @@
+pytest>=8.0
+pytest-html>=4.0
+allure-pytest>=2.13
+pyyaml>=6.0
+pandas>=2.0
+openpyxl>=3.1
+doipclient>=1.1
+python-can>=4.3
+pyserial>=3.5

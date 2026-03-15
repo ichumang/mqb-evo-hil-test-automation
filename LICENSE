@@ -1,0 +1,19 @@
+Proprietary License
+
+Copyright (c) 2024 Umang Panchal. All rights reserved.
+
+This repository is provided for portfolio and demonstration purposes only.
+
+The following files are publicly available and may be viewed freely:
+  - README.md
+  - docs/*.md
+  - conftest.py
+
+All other source code, test cases, and library modules are proprietary
+and confidential. No license is granted to use, copy, modify, merge,
+publish, distribute, sublicense, or sell any proprietary portions of
+this software.
+
+Unauthorized use of proprietary code is strictly prohibited.
+
+For licensing inquiries: https://github.com/ichumang
